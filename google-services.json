@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1026506644102",
+    "project_id": "causal-scarab-356404",
+    "storage_bucket": "causal-scarab-356404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026506644102:android:375fc9cae82754e3924f07",
+        "android_client_info": {
+          "package_name": "com.crimealert.vigilanteye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLj5aUww5ms23bYjFfH_ASSRBZvh4-tRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026506644102:android:f4e7aef6febac827924f07",
+        "android_client_info": {
+          "package_name": "com.example.security_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLj5aUww5ms23bYjFfH_ASSRBZvh4-tRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026506644102:android:30fed71d39f384d7924f07",
+        "android_client_info": {
+          "package_name": "com.fieldmanager_hrms.flutter.fieldmanager_hrms_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLj5aUww5ms23bYjFfH_ASSRBZvh4-tRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
