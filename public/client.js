@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
       };
       
       await socket.emit('alertMessage', alertData);
-    });
+    }); 
   
     socket.on('receiveAlert', (data) => {
       console.log('Received alert:', data);
